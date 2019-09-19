@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076344447655",
+    "firebase_url": "https://fir-instantmessaging.firebaseio.com",
+    "project_id": "fir-instantmessaging",
+    "storage_bucket": "fir-instantmessaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076344447655:android:6e85566ff685a1fefa3182",
+        "android_client_info": {
+          "package_name": "com.example.firebaseinstantmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076344447655-vi14bha5nbe9rl7nhtseiv1j4r4kgt21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseinstantmessaging",
+            "certificate_hash": "e00aeb3485772fc081cf47a65c0752a1d0d53f88"
+          }
+        },
+        {
+          "client_id": "1076344447655-mev8jmtcj3i9bpap2cmbc4o8arql4ejh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdIcMCNUNJKQbd2ovE3ffS8cfmM2Ze6d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076344447655-mev8jmtcj3i9bpap2cmbc4o8arql4ejh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
